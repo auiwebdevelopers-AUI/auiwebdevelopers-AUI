@@ -65,17 +65,6 @@ Our vision is simple — to be the partner ambitious businesses trust to turn bo
 
 ---
 
-## 🌟 Selected Work
-
-- **NovaPay Dashboard** — Fintech · Web App — real-time payments platform with analytics (Next.js, edge functions)
-- **Lumen AI** — SaaS · Branding — full brand identity & marketing site for an AI productivity startup
-- **Vesta Shop** — E-commerce · Mobile — cross-platform shopping app with AI-personalized recommendations
-- **CareSync** — Healthcare · UX — patient management platform redesigned for clarity & accessibility
-- **FlowBot** — AI · Automation — AI agent automating support workflows for a B2B SaaS company
-- **Ascend Growth** — Marketing · SEO — SEO & content engine that tripled organic traffic in six months
-
----
-
 ## 🧭 Our Process
 
 `01` Discovery → `02` Strategy → `03` Design → `04` Development → `05` Testing → `06` Launch → `07` Support
