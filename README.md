@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://meek-souffle-c2afd9.netlify.app/assets/logo.svg" alt="AUI Developers" width="150"/>
+<img src="[https://meek-souffle-c2afd9.netlify.app/assets/logo.svg](https://kommodo.ai/i/OFPNGnZFF2HomzEwmkiv)" alt="AUI Developers" width="150"/>
 
 # AUI Developers
 
