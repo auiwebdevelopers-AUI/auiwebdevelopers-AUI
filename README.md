@@ -157,16 +157,6 @@ A proven process designed to deliver projects on time, within budget, and aligne
 
 ---
 
-# 👥 Leadership
-
-| Name | Position |
-|------|----------|
-| **Abdul Qadir** | Co-Founder • Software Engineering |
-| **Uzair Arshad** | Co-Founder • Design & Creative |
-| **Muhammad Ibrahim** | Co-Founder • AI, Marketing & Strategy |
-
----
-
 # 🚀 Featured Solutions
 
 - 🌐 Business Websites
