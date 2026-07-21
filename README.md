@@ -207,7 +207,7 @@ https://www.instagram.com/auiwebdevelopers
 📘 **Facebook**  
 https://www.facebook.com/profile.php?id=61591271703387
 
-𝕏 **X (Twitter)**  
+𝕏 **(Twitter)**  
 https://x.com/AUIwebdeveloper
 
 ---
