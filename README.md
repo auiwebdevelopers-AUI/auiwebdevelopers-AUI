@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://meek-souffle-c2afd9.netlify.app/assets/logo.svg" alt="AUI Developers" width="140"/>
+<img src="[https://meek-souffle-c2afd9.netlify.app/assets/logo.svg" alt="AUI Developers" width="140](https://kommodo.ai/i/OFPNGnZFF2HomzEwmkiv)"/>
 
 # AUI Developers
 
@@ -188,7 +188,7 @@ Whether you're launching a startup, scaling your business, or modernizing your t
 📸 **Instagram:** https://www.instagram.com/auiwebdevelopers
 
 📘 **Facebook:** https://www.facebook.com/profile.php?id=61591271703387
-
+📘 **X:** https://x.com/AUIwebdeveloper
 ---
 
 ### Building the Future Through Technology, Creativity & Intelligence.
